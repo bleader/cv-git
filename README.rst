@@ -10,5 +10,5 @@ Personal information
 Address
 -------
 
-- 3 allée du Danemark
-- 91300 Massy
+- 27 allée de la grotte
+- 91700 Sainte Geneviève des Bois
