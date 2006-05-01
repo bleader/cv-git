@@ -1,0 +1,13 @@
+Mekensleep
+==========
+
+Junior Game Programmer
+----------------------
+
+- Duration: May 2006 - April 2007 (11 months):
+- Location: Paris 4ème (75)
+- Tasks:
+  
+  - Tweak internal level editor
+  - Write the game sound engine
+  - Add support to sound integration in level editor
