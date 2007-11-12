@@ -1,0 +1,11 @@
+Hydravision
+===========
+
+Junior Game Programmer
+----------------------
+
+- Duration: November 2007 - February 2008 (4 months)
+- Location: Tourcoing (59)
+- Tasks:
+
+  - Build the demo version of Alone In the Dark 5 for Playstation 2
