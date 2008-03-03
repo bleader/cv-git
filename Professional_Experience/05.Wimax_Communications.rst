@@ -1,0 +1,12 @@
+Wimax Communications
+====================
+
+Junior Software Engineer
+------------------------
+
+- Duration: March 2008 - September 2008 (7 months)
+- Location: Wincanton, Somerset (UK)
+- Tasks:
+
+  - Driver development for real time embedded system (VxWorks)
+  - On-board Integration
