@@ -10,6 +10,5 @@ Personal information
 Address
 -------
 
-- 55 High Street
-- Bruton, Somerset BA10 0AW
-- United Kingdom
+- 27 allée de la grotte
+- 91700 Sainte Geneviève des Bois
