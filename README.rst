@@ -10,5 +10,5 @@ Personal information
 Address
 -------
 
-- 27 allée de la grotte
-- 91700 Sainte Geneviève des Bois
+- 3 bis avenue Jean Baptiste Clément
+- 92100 Boulogne Billancourt
