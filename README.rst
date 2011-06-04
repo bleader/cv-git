@@ -10,5 +10,5 @@ Personal information
 Address
 -------
 
-- 3 bis avenue Jean Baptiste Clément
-- 92100 Boulogne Billancourt
+- 18 rue des tournelles
+- 78000 Versailles
