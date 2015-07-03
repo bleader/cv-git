@@ -10,5 +10,5 @@ Personal information
 Address
 -------
 
-- 30 rue de général Leclerc
-- 78000 Versailles
+- 13 rue du champ d'avoine
+- 78180 Montigny-le-Bretonneux
