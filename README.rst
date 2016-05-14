@@ -12,8 +12,8 @@ Personal information
 Address
 -------
 
-- 13 rue du champ d'avoine
-- 78180 Montigny-le-Bretonneux
+- 45 rue carnot
+- 78000 Versailles
 
 Note
 ----
