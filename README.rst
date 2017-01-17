@@ -15,6 +15,68 @@ Address
 - 45 rue carnot
 - 78000 Versailles
 
+Skills
+------
+
+- Language:
+
+  - French (native)
+  - English (fluent)
+  - few small notions:
+
+    - German
+    - Japanese
+
+- Programming Languages:
+
+  - C
+  - ASM: reading/understanding to debug (x86, PowerPC, Tilera, MIPS, ARM)
+
+- OS:
+
+  - Linux
+  - BSDs (free, net, open, dragonfly)
+  - Those I haven't used in a while:
+
+    - Solaris
+    - HP-UX
+    - VxWorks
+
+- Architectures:
+
+  - x86, x86_64
+  - ESP8266, ESP32 (xtensa)
+  - MIPS
+  - Tilera TILE-Gx
+  - Those I haven't used in a while:
+
+    - ARM
+    - PowerPC
+    - Sparc
+    - Alpha
+    - IA64
+
+Hobbies
+-------
+
+- Sport:
+
+  - Longboard (long distance, and slalom)
+  - Mountain bike
+
+- Art:
+
+  - Photography
+  - Music (listener not much of a player)
+
+- Science and Techonology:
+
+  - Thermal dissipation and cooling systems
+  - Home Automation: Z-Wave, ESP8266, ESP32, MQTT
+  - Computer Hardware
+  - High Tech Gadgets
+  - Mobile Devices
+
 Note
 ----
 
