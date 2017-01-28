@@ -31,6 +31,7 @@ Skills
 
   - C
   - ASM: reading/understanding to debug (x86, PowerPC, Tilera, MIPS, ARM)
+  - Python
 
 - OS:
 
