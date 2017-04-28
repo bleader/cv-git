@@ -62,6 +62,7 @@ Hobbies
 
 - Sport:
 
+  - Weight Lifting @ home
   - Longboard (long distance, and slalom)
   - Mountain bike
 
