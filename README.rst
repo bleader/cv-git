@@ -32,6 +32,7 @@ Skills
   - C
   - ASM: reading/understanding to debug (x86, PowerPC, Tilera, MIPS, ARM)
   - Python
+  - Go: playing with it at home for a small crypto-currency trader
 
 - OS:
 
