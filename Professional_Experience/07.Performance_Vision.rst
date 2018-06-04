@@ -1,0 +1,13 @@
+Performance Vision
+==================
+
+Software Engineer
+-----------------
+
+- Duration: June 2018 - Current
+- Location: Paris (75) / Fully Remote
+- Tasks:
+
+  - Working on PVX sniffer
+  - Replacing their DHCP layer by a more complete BOOTP support
+  - Add support to remote sniffing using libpcap and rpcapd
