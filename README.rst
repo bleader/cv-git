@@ -80,6 +80,11 @@ Hobbies
   - High Tech Gadgets
   - Mobile Devices
 
+- Health:
+
+  - Keto diet, Low Carb and Fasting (coaching training with diploma)
+  - Metabolism and Endocrinology
+
 Note
 ----
 
