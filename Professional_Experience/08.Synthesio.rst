@@ -1,0 +1,12 @@
+Synthesio
+=========
+
+Senior Backend Engineer
+-----------------------
+
+- Duration: May 2018 - Present
+- Location: Paris (75) / Fully Remote
+- Tasks:
+
+  - Working on backend microservices
+  - Rewrite older services from PHP to Go
