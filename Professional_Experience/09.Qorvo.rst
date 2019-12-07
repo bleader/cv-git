@@ -1,0 +1,11 @@
+Qorvo (was Sevenhugs)
+=====================
+
+Software Architect
+------------------
+
+- Duration: December 2020 - Present
+- Location: Paris (75) / Fully Remote
+- Tasks:
+
+  - Working on Ultra Wide Band MAC and Driver (linux/android)

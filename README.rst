@@ -47,12 +47,12 @@ Skills
 - Architectures:
 
   - x86, x86_64
+  - ARM, ARM64
   - ESP8266, ESP32 (xtensa)
   - MIPS
   - Tilera TILE-Gx
   - Those I haven't used in a while:
 
-    - ARM
     - PowerPC
     - Sparc
     - Alpha

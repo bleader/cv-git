@@ -4,9 +4,11 @@ Synthesio
 Senior Backend Engineer
 -----------------------
 
-- Duration: May 2018 - Present
+- Duration: May 2018 - November 2020
 - Location: Paris (75) / Fully Remote
 - Tasks:
 
   - Working on backend microservices
   - Rewrite older services from PHP to Go
+  - Adding new crawling for new social media site
+  - Rewrite SSO login system
