@@ -4,8 +4,14 @@ Qorvo (was Sevenhugs)
 Software Architect
 ------------------
 
-- Duration: December 2020 - Present
+- Duration: December 2020 - February 2023
 - Location: Paris (75) / Fully Remote
 - Tasks:
 
-  - Working on Ultra Wide Band MAC and Driver (linux/android)
+  - Ultra Wide Band MAC (linux, android, zephyr).
+  - Driver and Driver (linux/android).
+  - FiRa ranging protocol, following latest evolutions and new features of the
+    specifications.
+  - Data transfer.
+  - Helping scrum team to translate specifications and feature requests into
+    meaningful task to be implemented.
